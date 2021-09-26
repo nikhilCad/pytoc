@@ -12,7 +12,11 @@ I used this to create contents in my College notes
 
 You can also edit book.txt manyally and then use above command to re-edit Table of Contents of pdf file
 
-Required libraries:
-pypdf2
-pdfbookmarker
-(Both available on pypy)
+Required libraries(Both available on pypy/pip):
+
+
+```pypdf2```
+
+
+```pdfbookmarker```
+
