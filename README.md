@@ -10,7 +10,7 @@ I used this to create bookmarks in my College notes. Nothing else, faltu ka time
 
 ```pdfbm book.pdf book.txt```
 
-You can also edit book.txt manyally and then use above command to re-edit Table of Contents of pdf file
+You can also edit book.txt manually and then use above command to re-edit Table of Contents of pdf file
 
 Required libraries(Both available on pypy/pip):
 
