@@ -6,7 +6,7 @@ Extracts Table of Contents from a pdf file named book.pdf in present working dir
 Why?
 
 
-I used this to create contents in my College notes
+I used this to create bookmarks in my College notes. Nothing else, faltu ka time pass
 
 ```pdfbm book.pdf book.txt```
 
