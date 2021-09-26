@@ -8,9 +8,11 @@ Why?
 
 I used this to create bookmarks in my College notes. Nothing else, faltu ka time pass
 
-```pdfbm book.pdf book.txt```
 
-You can also edit book.txt manually and then use above command to re-edit Table of Contents of pdf file
+
+You can also edit book.txt manually and then use below command to re-edit Table of Contents of pdf file
+
+```pdfbm book.pdf book.txt```
 
 Required libraries(Both available on pypy/pip):
 
